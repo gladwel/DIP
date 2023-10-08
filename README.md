@@ -8,10 +8,10 @@ Contains explanatory data analysis, visual information about data
 Contains info about models
 ## notebooks
 Contains 
-  Explanatory data analysis
-  GPT processing 
-  BART inference
-  Evaluating algorithms
+- Explanatory data analysis
+- GPT processing 
+- BART inference
+- Evaluating algorithms
 notebooks
 ## overleafs
 Contains overleaf archives 
