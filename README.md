@@ -1,5 +1,7 @@
 # Machine learning-based approach for summarizing governance proposals for decentralized autonomous organizations
+[Task assignment](https://projects.fit.cvut.cz/theses/4885)
 
+[Overleaf project](https://www.overleaf.com/read/qpgnhsxyhjmg)
 ## Folders description
 * **data**: contains proposals, ground truth summarizations, GPT 3.5, GPT 4, finetuned GPT 3.5-turbo, BART data
 * **data_analysis**: contains explanatory data analysis graphs
