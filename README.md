@@ -7,11 +7,10 @@ Contains explanatory data analysis, visual information about data
 ## models
 Contains info about models
 ## notebooks
-Contains 
+Contains Jupyter notebooks, such as:
 - Explanatory data analysis
 - GPT processing 
 - BART inference
 - Evaluating algorithms
-notebooks
 ## overleafs
 Contains overleaf archives 
