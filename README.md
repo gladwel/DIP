@@ -15,7 +15,7 @@
 * **notebooks**: contains Jupyter notebooks, such as:
   - Explanatory data analysis
   - GPT processing 
-  - BART inference
+  - BART processing
   - Evaluating algorithms
   
 * **overleafs**: contains overleaf archives 
